@@ -1,0 +1,9 @@
+# .github/languages.yml
+PHP:
+  - "*.php"
+JavaScript:
+  - "*.js"
+CSS:
+  - '.css'
+HTML:
+  - '.html'
